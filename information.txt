@@ -1,0 +1,18 @@
+**fonts**
+- logo font : (Allura)
+- web font : (Akaya Telivigala)
+
+ 
+**font Weight**
+- nav links : 18px
+- logo : 33px
+- title hero sec: 45px
+- title of sections : 42px
+- paragraphs : 16px
+
+
+**colors**
+- B2989E with opacity 59% (اغلب درجة استخداما + nav)
+- 6F545A  (font color + copyright section)
+- B2989E (footer)
+- background-color : B2989E with opacity 18%
